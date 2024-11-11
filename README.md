@@ -16,15 +16,12 @@ The goal of this demo is to help developers get familiar with setting up and usi
    ```script
    git clone https://github.com/yourusername/jms-topic-demo.git
    ./bin/activemq start
-
 2. **Run Spring Boot:**
    ```script
    mvn spring-boot:run
-
 3. **Run ActiveMQ:**
    ```script
    ./bin/activemq start
-   
 4. **Run Postman:**
    ```script
    http://localhost:8080/api/send
