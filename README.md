@@ -1,9 +1,8 @@
 # JMS Topic Demo
-
 This project is a simple demonstration of how to use Java Message Service (JMS) with topics. It showcases a basic implementation for sending and receiving messages using the subscribe-publish messaging model.
 
-## Overview
-The goal of this demo is to help developers get familiar with setting up and using JMS with topics, which allows multiple subscribers to receive messages broadcasted by a publisher.
+## Usage
+Ideal for scenarios where messages need to be delivered to multiple subscribers, such as notification systems, real-time event streaming, or status updates.
 
 ## Features
 - Demonstrates the basic configuration of a JMS provider.
